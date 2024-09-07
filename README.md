@@ -142,17 +142,17 @@ The following tables discusses the accuracy, precision, recall, F1-score and spe
 |Abdelminaam et al| 69.2| 88.1| 88| 83.3| 88.8|
 
 ### Feature correlation map
-![Diabetes Chart](./Image/PIDDcorrelationmap(1).png)
+![Diabetes Chart](./Image/PIDD_correlation_map_(1).png)
 
 
 ### Explaining model's predictions
-![Diabetes Chart](./Image/SHAPBeeswarmplot(1).png)
+![Diabetes Chart](./Image/SHAP_Beeswarm_plot_(1).png)
 
 
-![Diabetes Chart](./Image/SHAPWaterfall(1).png)
+![Diabetes Chart](./Image/SHAP_Waterfall_(1).png)
 
 
-![Diabetes Chart](./Image/SHAPcontribution.png)
+![Diabetes Chart](./Image/_SHAP_contribution.png)
 
 
 # Contact
