@@ -7,7 +7,7 @@
 
 # Methodology and files
 
-![Diabetes Chart](./Image/methodology.png)
+![Diabetes Chart](./Images/methodology.png)
 
 The following files have been uploaded to this repository:
 1) Data_processing_and_EDA.ipynb : This colab notebook comprises of python scripts to preprocess and visualize insights from the AAQoL Dataset.
@@ -84,13 +84,13 @@ Support Vector Machine(SVM)| 49.27| 50.11| 49.27| 49.27|
 |Support Vector Machine (SVM)| 95.2| 81.9| 90.4| 92.9|
 
 ### Feature selection results for top 20 features:
-![Top_20](Optimizing-Diabetes-Classification-Addressing-Data-Imbalance-and-Feature-Skewness-through-ML-XAI/Image/Top_20.png)
+![Top_20](Optimizing-Diabetes-Classification-Addressing-Data-Imbalance-and-Feature-Skewness-through-ML-XAI/Images/Top_20.png)
 
 ### Feature selection results for top 20 features:
-![Top_40](./Image/Top_40.png)
+![Top_40](./Images/Top_40.png)
 
 ### Feature selection results for top 20 features:
-![Top_60](./Image/Top_60.png)
+![Top_60](./Images/Top_60.png)
 
 ## PIMA Indian Diabetes Dataset (PID Dataset)
 
@@ -147,17 +147,17 @@ The following tables discusses the accuracy, precision, recall, F1-score and spe
 |Abdelminaam et al| 69.2| 88.1| 88| 83.3| 88.8|
 
 ### Feature correlation map
-![PIDD_correlation_map](./Image/_PIDD_correlation_map_(1).png)
+![PIDD_correlation_map](./Images/_PIDD_correlation_map_(1).png)
 
 
 ### Explaining model's predictions
-![SHAP_Beeswarm_plot](./Image/SHAP_Beeswarm_plot_(1).jpg)
+![SHAP_Beeswarm_plot](./Images/SHAP_Beeswarm_plot_(1).jpg)
 
 
-![SHAP_Waterfall_](./Image/SHAP_Waterfall_(1).jpg)
+![SHAP_Waterfall_](./Images/SHAP_Waterfall_(1).jpg)
 
 
-![_SHAP_contribution](./Image/_SHAP_contribution.jpg)
+![_SHAP_contribution](./Images/_SHAP_contribution.jpg)
 
 
 # Contact
