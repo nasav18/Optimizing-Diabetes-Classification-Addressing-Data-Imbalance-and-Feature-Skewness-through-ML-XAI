@@ -84,13 +84,13 @@ Support Vector Machine(SVM)| 49.27| 50.11| 49.27| 49.27|
 |Support Vector Machine (SVM)| 95.2| 81.9| 90.4| 92.9|
 
 ### Feature selection results for top 20 features:
-![Optimizing-Diabetes-Classification-Addressing-Data-Imbalance-and-Feature-Skewness-through-ML-XAI/Images/Top_20.png](Optimizing-Diabetes-Classification-Addressing-Data-Imbalance-and-Feature-Skewness-through-ML-XAI/Images/Top_20.png)
+![Top_20 Features.png](Optimizing-Diabetes-Classification-Addressing-Data-Imbalance-and-Feature-Skewness-through-ML-XAI/Images/Top_20.png)
 
 ### Feature selection results for top 20 features:
-![Top_40](./Images/Top_40.png)
+![Top_40 Features](./Images/Top_40.png)
 
 ### Feature selection results for top 20 features:
-![Top_60](./Images/Top_60.png)
+![Top_60 Features](./Images/Top_60.png)
 
 ## PIMA Indian Diabetes Dataset (PID Dataset)
 
