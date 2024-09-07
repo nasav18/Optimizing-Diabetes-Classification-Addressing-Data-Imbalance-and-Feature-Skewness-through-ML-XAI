@@ -84,7 +84,7 @@ Support Vector Machine(SVM)| 49.27| 50.11| 49.27| 49.27|
 |Support Vector Machine (SVM)| 95.2| 81.9| 90.4| 92.9|
 
 ### Feature selection results for top 20 features:
-![Top_20 Features.png](Optimizing-Diabetes-Classification-Addressing-Data-Imbalance-and-Feature-Skewness-through-ML-XAI/Images/Top20.png)
+![Top_20 Features.png](./Images/Top20.png)
 
 
 ### Feature selection results for top 20 features:
@@ -148,7 +148,7 @@ The following tables discusses the accuracy, precision, recall, F1-score and spe
 |Abdelminaam et al| 69.2| 88.1| 88| 83.3| 88.8|
 
 ### Feature correlation map
-![PIDD_correlation_map](./Images/_PIDDcorrelationmap(1).png)
+![PIDD_correlation_map](./Images/PIDDcorrelationmap(1).png)
 
 
 ### Explaining model's predictions
@@ -158,7 +158,7 @@ The following tables discusses the accuracy, precision, recall, F1-score and spe
 ![SHAP_Waterfall_](./Images/SHAPWaterfall(1).jpg)
 
 
-![_SHAP_contribution](./Images/_SHAP_contribution.jpg)
+![_SHAP_contribution](./Images/SHAPcontribution.jpg)
 
 
 # Contact
