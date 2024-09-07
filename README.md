@@ -15,7 +15,6 @@ The following files have been uploaded to this repository:
 3. *Feature_selection_and_final_results_of_AAQoL_dataset.ipynb:* This Colab notebook implements Python scripts for feature selection, focusing on the top 20, 40, and 60 features of the AAQoL dataset to optimize model performance.
 4. *PID_Dataset_and_XAI.ipynb:* This notebook validates the proposed methodology on the Pima Indian Diabetes Dataset (PIDD). Additionally, it includes Python scripts that apply Explainable AI (XAI) techniques to visualize and interpret the predictions of machine learning models.
 
-
    
 # Results
 
