@@ -84,15 +84,15 @@ Support Vector Machine(SVM)| 49.27| 50.11| 49.27| 49.27|
 |Support Vector Machine (SVM)| 95.2| 81.9| 90.4| 92.9|
 
 ### Feature selection results for top 20 features:
-![Diabetes Chart](Optimizing-Diabetes-Classification-Addressing-Data-Imbalance-and-Feature-Skewness-through-ML-XAI/Image/Top_20.png)
+![Top_20](Optimizing-Diabetes-Classification-Addressing-Data-Imbalance-and-Feature-Skewness-through-ML-XAI/Image/Top_20.png)
 
 ### Feature selection results for top 20 features:
-![Diabetes Chart](./Image/Top_40.png)
+![Top_40](./Image/Top_40.png)
 
 ### Feature selection results for top 20 features:
 
 
-![Diabetes Chart](./Image/Top_60.png)
+![Top_60](./Image/Top_60.png)
 
 ## PIMA Indian Diabetes Dataset (PID Dataset)
 
@@ -149,17 +149,17 @@ The following tables discusses the accuracy, precision, recall, F1-score and spe
 |Abdelminaam et al| 69.2| 88.1| 88| 83.3| 88.8|
 
 ### Feature correlation map
-![Diabetes Chart](./Image/_PIDD_correlation_map_(1).png)
+![PIDD_correlation_map](./Image/_PIDD_correlation_map_(1).png)
 
 
 ### Explaining model's predictions
-![Diabetes Chart](./Image/SHAP_Beeswarm_plot_(1).jpg)
+![SHAP_Beeswarm_plot](./Image/SHAP_Beeswarm_plot_(1).jpg)
 
 
-![Diabetes Chart](./Image/SHAP_Waterfall_(1).jpg)
+![SHAP_Waterfall_](./Image/SHAP_Waterfall_(1).jpg)
 
 
-![Diabetes Chart](./Image/_SHAP_contribution.jpg)
+![_SHAP_contribution](./Image/_SHAP_contribution.jpg)
 
 
 # Contact
