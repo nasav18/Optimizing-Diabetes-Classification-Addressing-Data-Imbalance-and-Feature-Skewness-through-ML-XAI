@@ -9,7 +9,12 @@
 
 ![Diabetes Chart](./Image/methodology.png)
 
-
+The following files have been uploaded to this repository:
+1) Data_processing_and_EDA.ipynb : This colab notebook comprises of python scripts to preprocess and visualize insights from the AAQoL Dataset.
+2) Diabetes_Prediction_Internship.ipynb: This colab notebook is the entire compilation of this research work.
+3) Feature_selection_and_final_results_of_AAQoL_dataset.ipynb: This colab notebook consists of python scripts to execute and implement feature selection of top 20, 40 and 60 features on the AAQoL dataset. 
+4) PID_Dataset_and_XAI.ipynb: This colab notebook consists of python scripts to validate our methodology from scratch on the PIMA Indian Diabetes Dataset. These python scripts also visualises the predictions of ML models by leveraging Explainable-AI techniques.
+   
 # Results
 
 ## Asian American Quality of Life (AAQoL)
