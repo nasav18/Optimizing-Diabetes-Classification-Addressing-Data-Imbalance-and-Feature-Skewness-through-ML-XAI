@@ -1,19 +1,21 @@
 # Libraries required
-1. Pandas: For data wrangling and pre-processing.
-2. Numpy: For defining mathematical functions to handle skewed features.
-3. Matplotlib: To visualize insights from the dataset.
-4. Scikit-learn: To train, deploy and develop machine learning models.
-5. Shap: To explain the predictions of our classifiers.
+1. *Pandas:* For data wrangling and pre-processing.
+2. *Numpy:* For defining mathematical functions to handle skewed features.
+3. *Matplotlib:* To visualize insights from the dataset.
+4. *Scikit-learn:* To train, deploy and develop machine learning models.
+5. *Shap:* To explain the predictions of our classifiers.
 
 # Methodology and files
 
 ![Diabetes Chart](./Images/methodology.png)
 
 The following files have been uploaded to this repository:
-1) Data_processing_and_EDA.ipynb : This colab notebook comprises of python scripts to preprocess and visualize insights from the AAQoL Dataset.
-2) Diabetes_Prediction_Internship.ipynb: This colab notebook is the entire compilation of this research work.
-3) Feature_selection_and_final_results_of_AAQoL_dataset.ipynb: This colab notebook consists of python scripts to execute and implement feature selection of top 20, 40 and 60 features on the AAQoL dataset. 
-4) PID_Dataset_and_XAI.ipynb: This colab notebook consists of python scripts to validate our methodology from scratch on the PIMA Indian Diabetes Dataset. These python scripts also visualises the predictions of ML models by leveraging Explainable-AI techniques.
+1. *Data_processing_and_EDA.ipynb:* This Colab notebook contains Python scripts for preprocessing and extracting insights from the AAQoL Dataset through exploratory data analysis (EDA).
+2. *Diabetes_Prediction_Internship.ipynb:* This comprehensive Colab notebook compiles the entire body of work conducted in this research, including methodologies, model implementations, and results.
+3. *Feature_selection_and_final_results_of_AAQoL_dataset.ipynb:* This Colab notebook implements Python scripts for feature selection, focusing on the top 20, 40, and 60 features of the AAQoL dataset to optimize model performance.
+4. *PID_Dataset_and_XAI.ipynb:* This notebook validates the proposed methodology on the Pima Indian Diabetes Dataset (PIDD). Additionally, it includes Python scripts that apply Explainable AI (XAI) techniques to visualize and interpret the predictions of machine learning models.
+
+
    
 # Results
 
