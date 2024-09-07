@@ -148,13 +148,13 @@ The following tables discusses the accuracy, precision, recall, F1-score and spe
 
 
 ### Explaining model's predictions
-![Diabetes Chart](./Image/SHAP_Beeswarm_plot_(1).png)
+![Diabetes Chart](./Image/SHAP_Beeswarm_plot_(1).jpg)
 
 
-![Diabetes Chart](./Image/SHAP_Waterfall_(1).png)
+![Diabetes Chart](./Image/SHAP_Waterfall_(1).jpg)
 
 
-![Diabetes Chart](./Image/_SHAP_contribution.png)
+![Diabetes Chart](./Image/_SHAP_contribution.jpg)
 
 
 # Contact
