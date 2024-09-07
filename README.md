@@ -6,12 +6,14 @@
 5. Shap
 
 # Methodology and files
+
 ![Diabetes Chart](./Image/methodology.png)
 
 
 # Results
 
-## Asian American Quality of Life
+## Asian American Quality of Life (AAQoL)
+The following tables discusses the accuracy, precision, recall, F1-score and specificity of the machine learning models on the AAQoL Dataset:
 ### Performance accuracy of the machine learning classifiers on the AAQoL dataset with top 20, 40, and 60 features, without feature standardization.
 |Classifiers | All Features |Top 20 | Top 40 |Top 60|
 |------------|--------------|-------|--------|------|
@@ -76,8 +78,18 @@ Support Vector Machine(SVM)| 49.27| 50.11| 49.27| 49.27|
 |Random Forests| 95.54| 93.1| 95.7| 95.61|
 |Support Vector Machine (SVM)| 95.2| 81.9| 90.4| 92.9|
 
-## PIMA Indian Diabetes Dataset
+### Feature selection results for top 20 features:
+![Diabetes Chart](./Image/Top 20.png)
 
+### Feature selection results for top 20 features:
+![Diabetes Chart](./Image/Top 40.png)
+
+### Feature selection results for top 20 features:
+![Diabetes Chart](./Image/Top 60.png)
+
+## PIMA Indian Diabetes Dataset (PID Dataset)
+
+The following tables discusses the accuracy, precision, recall, F1-score and specificity of the machine learning models on the PID Dataset:
 ### Performance Analysis on PID (Comparing Accuracy)
 |Research work| Decision Trees| Logistic Regression| NB Classifier| Random Forests| SVM|
 |-------------|---------------|--------------------|--------------|----------------|----|
@@ -128,6 +140,20 @@ Support Vector Machine(SVM)| 49.27| 50.11| 49.27| 49.27|
 |Tigga et al| 84.2| 76.5| 76| 100| 77.1|
 |Pranto et al| 68 | NA| 68| 76| NA|
 |Abdelminaam et al| 69.2| 88.1| 88| 83.3| 88.8|
+
+### Feature correlation map
+![Diabetes Chart](./Image/PIDD correlation map (1).png)
+
+
+### Explaining model's predictions
+![Diabetes Chart](./Image/SHAP Beeswarm plot (1).png)
+
+
+![Diabetes Chart](./Image/SHAP Waterfall (1).png)
+
+
+![Diabetes Chart](./Image/SHAP contribution.png)
+
 
 # Contact
 Reach out to girievasan.nitt@gmail.com for further enquiries.
