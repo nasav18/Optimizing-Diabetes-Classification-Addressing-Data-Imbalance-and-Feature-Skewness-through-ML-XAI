@@ -6,6 +6,8 @@
 5. Shap
 
 # Methodology and files
+![Diabetes Chart](./Image/methodology.png)
+
 
 # Results
 
