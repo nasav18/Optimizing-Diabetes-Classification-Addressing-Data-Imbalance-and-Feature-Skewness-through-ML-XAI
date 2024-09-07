@@ -5,9 +5,9 @@
 4. Scikit-learn
 5. Shap
 
-#Methodology
+# Methodology
 
-#Results
+# Results
 |Classifiers | All Features |Top 20 | Top 40 |Top 60|
 |------------|--------------|-------|--------|------|
 Decision Trees| 90.9| 85.47| 86.26| 87.88|
@@ -18,5 +18,5 @@ Support Vector Machine(SVM)| 49.27| 50.11| 49.27| 49.27|
 
 
 
-#Contact
+# Contact
 Reach out to girievasan.nitt@gmail.com for further enquiries.
