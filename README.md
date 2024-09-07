@@ -1,9 +1,9 @@
 # Libraries required
-1. Pandas
-2. Numpy
-3. Matplotlib
-4. Scikit-learn
-5. Shap
+1. Pandas: For data wrangling and pre-processing.
+2. Numpy: For defining mathematical functions to handle skewed features.
+3. Matplotlib: To visualize insights from the dataset.
+4. Scikit-learn: To train, deploy and develop machine learning models.
+5. Shap: To explain the predictions of our classifiers.
 
 # Methodology and files
 
