@@ -90,8 +90,6 @@ Support Vector Machine(SVM)| 49.27| 50.11| 49.27| 49.27|
 ![Top_40](./Image/Top_40.png)
 
 ### Feature selection results for top 20 features:
-
-
 ![Top_60](./Image/Top_60.png)
 
 ## PIMA Indian Diabetes Dataset (PID Dataset)
