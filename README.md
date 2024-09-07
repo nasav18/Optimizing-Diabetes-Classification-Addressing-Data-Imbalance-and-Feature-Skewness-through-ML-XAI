@@ -87,10 +87,10 @@ Support Vector Machine(SVM)| 49.27| 50.11| 49.27| 49.27|
 ![Top_20 Features.png](./Images/Top20.png)
 
 
-### Feature selection results for top 20 features:
+### Feature selection results for top 40 features:
 ![Top_40 Features](./Images/Top40.png)
 
-### Feature selection results for top 20 features:
+### Feature selection results for top 60 features:
 ![Top_60 Features](./Images/Top60.png)
 
 ## PIMA Indian Diabetes Dataset (PID Dataset)
@@ -158,7 +158,7 @@ The following tables discusses the accuracy, precision, recall, F1-score and spe
 ![SHAP_Waterfall_](./Images/SHAPWaterfall(1).jpg)
 
 
-![_SHAP_contribution](./Images/SHAPcontribution.jpg)
+![_SHAP_contribution](./Images/SHAPcontribution(1).jpg)
 
 
 # Contact
