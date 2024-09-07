@@ -143,7 +143,7 @@ The following tables discusses the accuracy, precision, recall, F1-score and spe
 |Pranto et al| 68 | NA| 68| 76| NA|
 |Abdelminaam et al| 69.2| 88.1| 88| 83.3| 88.8|
 
-
+### Feature correlation map
 ![Diabetes Chart](./Image/_PIDD_correlation_map_(1).png)
 
 
