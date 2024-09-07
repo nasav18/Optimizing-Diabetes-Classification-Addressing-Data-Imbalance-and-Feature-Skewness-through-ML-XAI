@@ -86,6 +86,9 @@ Support Vector Machine(SVM)| 49.27| 50.11| 49.27| 49.27|
 ### Feature selection results for top 20 features:
 ![Top_20 Features.png](Optimizing-Diabetes-Classification-Addressing-Data-Imbalance-and-Feature-Skewness-through-ML-XAI/Images/Top_20.png)
 
+![Diabetes Chart](./Images/methodology.png)
+
+
 ### Feature selection results for top 20 features:
 ![Top_40 Features](./Images/Top_40.png)
 
